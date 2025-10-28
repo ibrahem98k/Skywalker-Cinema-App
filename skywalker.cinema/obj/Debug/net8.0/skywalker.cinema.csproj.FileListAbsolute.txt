@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\skywalker.cinema\bin\Debug\net8.0\skywalker.cinema.exe
+C:\Users\pc\source\repos\skywalker.cinema\bin\Debug\net8.0\skywalker.cinema.deps.json
+C:\Users\pc\source\repos\skywalker.cinema\bin\Debug\net8.0\skywalker.cinema.runtimeconfig.json
+C:\Users\pc\source\repos\skywalker.cinema\bin\Debug\net8.0\skywalker.cinema.dll
+C:\Users\pc\source\repos\skywalker.cinema\bin\Debug\net8.0\skywalker.cinema.pdb
+C:\Users\pc\source\repos\skywalker.cinema\obj\Debug\net8.0\skywalker.cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\skywalker.cinema\obj\Debug\net8.0\skywalker.cinema.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\skywalker.cinema\obj\Debug\net8.0\skywalker.cinema.AssemblyInfo.cs
+C:\Users\pc\source\repos\skywalker.cinema\obj\Debug\net8.0\skywalker.cinema.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\skywalker.cinema\obj\Debug\net8.0\skywalker.cinema.dll
+C:\Users\pc\source\repos\skywalker.cinema\obj\Debug\net8.0\refint\skywalker.cinema.dll
+C:\Users\pc\source\repos\skywalker.cinema\obj\Debug\net8.0\skywalker.cinema.pdb
+C:\Users\pc\source\repos\skywalker.cinema\obj\Debug\net8.0\skywalker.cinema.genruntimeconfig.cache
+C:\Users\pc\source\repos\skywalker.cinema\obj\Debug\net8.0\ref\skywalker.cinema.dll

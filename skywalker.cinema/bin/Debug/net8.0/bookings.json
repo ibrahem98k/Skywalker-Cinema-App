@@ -1,0 +1,39 @@
+[
+  {
+    "MovieTitle": "Avengers",
+    "Room": 1,
+    "ShowTime": "2025-10-28T10:00:00+03:00",
+    "TicketType": 0,
+    "Day": 1,
+    "SeatsWithIds": {
+      "A1": "6a7f123e-f62e-4a4d-921e-e9f274fec8a9",
+      "A2": "fc26aed7-2b43-4bc9-96a9-884fc3c8574f"
+    },
+    "TotalPrice": 7500,
+    "Discount": 2500
+  },
+  {
+    "MovieTitle": "Avengers",
+    "Room": 1,
+    "ShowTime": "2025-10-28T10:00:00+03:00",
+    "TicketType": 1,
+    "Day": 1,
+    "SeatsWithIds": {
+      "A1": "77b5ba2e-88c4-477a-9857-6b64841df0cc"
+    },
+    "TotalPrice": 8000,
+    "Discount": 0
+  },
+  {
+    "MovieTitle": "Spider-Man",
+    "Room": 1,
+    "ShowTime": "2025-10-28T10:00:00+03:00",
+    "TicketType": 0,
+    "Day": 1,
+    "SeatsWithIds": {
+      "A1": "bb380f12-241f-438c-b019-b9fc99c06916"
+    },
+    "TotalPrice": 5000,
+    "Discount": 0
+  }
+]

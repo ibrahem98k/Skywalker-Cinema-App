@@ -1,0 +1,9087 @@
+[
+  {
+    "Title": "Avengers",
+    "Shows": [
+      {
+        "Room": 1,
+        "Time": "10:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 1,
+        "Time": "13:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 1,
+        "Time": "16:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 1,
+        "Time": "19:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "11:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "14:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "17:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "20:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "12:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "15:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "18:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "21:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Title": "The Batman",
+    "Shows": [
+      {
+        "Room": 1,
+        "Time": "10:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 1,
+        "Time": "13:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 1,
+        "Time": "16:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 1,
+        "Time": "19:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "11:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "14:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "17:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "20:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "12:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "15:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "18:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "21:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Title": "Spider-Man",
+    "Shows": [
+      {
+        "Room": 1,
+        "Time": "10:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 1,
+        "Time": "13:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 1,
+        "Time": "16:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 1,
+        "Time": "19:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "11:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "14:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "17:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "20:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "12:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "15:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "18:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "21:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Title": "Inception",
+    "Shows": [
+      {
+        "Room": 1,
+        "Time": "10:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 1,
+        "Time": "13:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 1,
+        "Time": "16:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 1,
+        "Time": "19:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "11:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "14:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "17:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "20:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "12:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "15:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "18:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "21:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      }
+    ]
+  },
+  {
+    "Title": "Joker",
+    "Shows": [
+      {
+        "Room": 1,
+        "Time": "10:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 1,
+        "Time": "13:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 1,
+        "Time": "16:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 1,
+        "Time": "19:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "11:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "14:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "17:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 2,
+        "Time": "20:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "12:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "15:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "18:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      },
+      {
+        "Room": 3,
+        "Time": "21:00:00",
+        "Duration": 120,
+        "Seats": [
+          {
+            "Row": "A",
+            "Number": 1
+          },
+          {
+            "Row": "A",
+            "Number": 2
+          },
+          {
+            "Row": "A",
+            "Number": 3
+          },
+          {
+            "Row": "A",
+            "Number": 4
+          },
+          {
+            "Row": "A",
+            "Number": 5
+          },
+          {
+            "Row": "B",
+            "Number": 1
+          },
+          {
+            "Row": "B",
+            "Number": 2
+          },
+          {
+            "Row": "B",
+            "Number": 3
+          },
+          {
+            "Row": "B",
+            "Number": 4
+          },
+          {
+            "Row": "B",
+            "Number": 5
+          },
+          {
+            "Row": "C",
+            "Number": 1
+          },
+          {
+            "Row": "C",
+            "Number": 2
+          },
+          {
+            "Row": "C",
+            "Number": 3
+          },
+          {
+            "Row": "C",
+            "Number": 4
+          },
+          {
+            "Row": "C",
+            "Number": 5
+          },
+          {
+            "Row": "D",
+            "Number": 1
+          },
+          {
+            "Row": "D",
+            "Number": 2
+          },
+          {
+            "Row": "D",
+            "Number": 3
+          },
+          {
+            "Row": "D",
+            "Number": 4
+          },
+          {
+            "Row": "D",
+            "Number": 5
+          },
+          {
+            "Row": "E",
+            "Number": 1
+          },
+          {
+            "Row": "E",
+            "Number": 2
+          },
+          {
+            "Row": "E",
+            "Number": 3
+          },
+          {
+            "Row": "E",
+            "Number": 4
+          },
+          {
+            "Row": "E",
+            "Number": 5
+          }
+        ],
+        "DailyBookedSeats": {
+          "Sunday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Monday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Tuesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Wednesday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Thursday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Friday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          },
+          "Saturday": {
+            "Regular": [],
+            "Deluxe": [],
+            "AllDayRegular": [],
+            "AllDayDeluxe": []
+          }
+        }
+      }
+    ]
+  }
+]
