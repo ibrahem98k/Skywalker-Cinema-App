@@ -1,0 +1,6 @@
+/Skywalker-Cinema-App
+│
+├─ Program.cs          // Main program logic
+├─ movies.json         // Stores movie and show info
+├─ bookings.json       // Stores user bookings
+└─ README.md           // Project documentation
